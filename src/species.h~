@@ -1,0 +1,11 @@
+#ifndef SPECIES
+#define SPECIES
+
+
+class Species {
+private:
+	char species_char_;
+public:
+};
+
+#endif 
